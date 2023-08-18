@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Todo-app';
+  message = 'Welcome to Hema sundhar Todo App';
+
 }
